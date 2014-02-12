@@ -5,7 +5,7 @@
     End Sub
 
     Private Sub btnSaludar_Click(sender As Object, e As EventArgs) Handles btnSaludar.Click
-        MsgBox("Hello man aaa")
+        MsgBox("Hello man bbb")
     End Sub
 
     Private Sub btnPresentarse_Click(sender As Object, e As EventArgs) Handles btnPresentarse.Click
